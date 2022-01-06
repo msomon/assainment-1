@@ -4,8 +4,10 @@ h2{color: green;font-size: 30px;}
 .focus{color:orangered}
 .div2{border-left: blue 5px solid;margin-left:100px;padding-left:2%}
 .a{background-image: linear-gradient(orange,green);text-decoration:none;border-radius: 10px;padding:15px 30px;}
+.p{margin-bottom: 40px;font-size: 20px;}
+#id{margin-bottom: 30px;}
 .div3{margin-left: 100px;}
-.div1{width: 50%;}
+.div1{width: 40%;}
 .div1 img{60%;padding-left:10px;}
 .section{display: flex;margin-bottom: 10px;}
 .goal{text-align: center;margin-botton:40px;}
@@ -22,10 +24,18 @@ padding:20px;text-align:center;border-left: white 5px;
 .develop{width:50%;padding-left:20px; margin-left:10px;}
 .develop img{width:80%;height: 500px;}
 .img{margin-left:10px}
-.section2{display: flex;margin-bottom: 90px;}
-.my{width:50%;left-margin:10px; padding:20px;}
-.my img{width: 90%;height: 500px;}
+.section2{display: flex;margin-bottom: 30px;}
+.my{width:50%;right-margin:10px; padding:30px;}
+.my img{width: 90%;height: 500px;padding-left: 30px;}
 .section3{display: flex;margin-bottom: 150px;}
+.hed1{text-decoration:none;font-size: 40px;color:blue;}
+.hed2{text-decoration:none;font-size: 40px;color:blue;}
+.hed3{text-decoration:none;font-size: 40px;color:blue;}
+.hed4{text-decoration:none;font-size: 40px;color:blue;}
+.bed{color: green;border-radius: 20px;text-align: center;margin-bottom: 20px;}
+.md{text-align: center; padding: 5px;justify-content: space-between;display: flex;
+}
+.mission{text-align: center;background: black;color:white;padding:20px;}
 
 
 
